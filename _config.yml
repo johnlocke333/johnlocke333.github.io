@@ -1,11 +1,11 @@
 # Site settings
-author: John Locke
-title: 
+author: Jack Locke
+title: Data Science Adventures
 header-img: img/home-bg.png
 email: jackdlocke@gmail.com
-copyright_name: John Locke
+copyright_name: Jack Locke
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  johnlocke333
